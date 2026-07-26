@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: forage-midas
+  kafka:
+    bootstrap-servers: localhost:9092
+
+general:
+  kafka-topic: trader-updates
